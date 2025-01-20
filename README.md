@@ -13,3 +13,5 @@
 [press20220519.pdf](./press20220519.pdf) SPO on Daewoong
 
 [press20230420.pdf](./press20230420.pdf) SPO on Built-in Furniture cartels
+
+[GenAI2024.pdf](./GenAI2024.pdf) KFTC GenAI and Competition Report (Dec 2024)
