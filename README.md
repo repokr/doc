@@ -12,6 +12,8 @@
 
 [Jeong_2022.pdf](./Jeong_2022.pdf) Jae Hun Jeong's Siemens case comments (2022)
 
+[KFTC2023-153.pdf](./KFTC2023-153.pdf) KFTC Broadcom ASBP (against Samsung) (2023)
+
 [Ko_2024.pdf](./Ko_2024.pdf) In Hea Ko's Coupang ASBP case comments (2024)
 
 [press20220511.pdf](./press20220511.pdf) SPO on Law Talk
