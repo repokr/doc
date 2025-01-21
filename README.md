@@ -17,3 +17,5 @@
 [GenAI2024.pdf](./GenAI2024.pdf) KFTC GenAI and Competition Report (Dec 2024)
 
 [press20241218.pdf](./press20241218.pdf) KFTC on GenAI Report (Dec 2024)
+
+[Jeong_2022.pdf](./Jeong_2022.pdf) Jae Hun Jeong's Siemens case comments (2022)
