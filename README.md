@@ -1,3 +1,5 @@
+[Online_Platform_Fairness_Act.pdf](./Online_Platform_Fairness_Act.pdf) Online platform fairness act (Sep 2020)
+
 [2001Hun-Ka25.pdf](./2001Hun-Ka25.pdf) Double jeopardy
 
 [2021Hun-Ma619.pdf](./2021Hun-Ma619.pdf) KBA (Law Talk)
@@ -27,3 +29,4 @@
 [press20241112.pdf](/press20241112.pdf) KFTC's enforcement record, 2022-2024 (Nov 2024)
 
 [press20240910.pdf](/press20240910.pdf) KFTC's platform amendment (Sep 2024)
+
