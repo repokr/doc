@@ -23,3 +23,5 @@
 [press20230420.pdf](./press20230420.pdf) SPO on Built-in Furniture cartels
 
 [press20241218.pdf](./press20241218.pdf) KFTC on GenAI Report (Dec 2024)
+
+[press20241112.pdf](/press20241112.pdf) KFTC's enforcement record, 2022-2024 (Nov 2024)
