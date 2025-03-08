@@ -25,3 +25,5 @@
 [press20241218.pdf](./press20241218.pdf) KFTC on GenAI Report (Dec 2024)
 
 [press20241112.pdf](/press20241112.pdf) KFTC's enforcement record, 2022-2024 (Nov 2024)
+
+[press20240910.pdf](/press20240910.pdf) KFTC's platform amendment (Sep 2024)
