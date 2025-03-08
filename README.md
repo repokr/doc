@@ -30,3 +30,4 @@
 
 [press20240910.pdf](/press20240910.pdf) KFTC's platform amendment (Sep 2024)
 
+[press20231219.pdf](/press20231219.pdf) KFTC's competition promotion act (Dec 2023)
