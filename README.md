@@ -33,3 +33,5 @@
 [press20231219.pdf](/press20231219.pdf) KFTC's competition promotion act (Dec 2023)
 
 [press20241018.pdf](/press20241018.pdf) KFTC's Large Retail Act proposal, for platform regulations (Oct 2024)
+
+[press20241121.pdf](./press20241121.pdf) KFTC's decision to reexamine, in the LTV cartel case (Nov 2024)
