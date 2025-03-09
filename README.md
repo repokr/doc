@@ -22,6 +22,8 @@
 
 [KFTC2022-216.pdf](./KFTC2022-216.pdf) KFTC Duck Meat Cartel (Aug 2022)
 
+[KFTC2022-090.pdf](./KFTC2022-090.pdf) KFTC Evergreen (Apr 2022)
+
 [Ko_2024.pdf](./Ko_2024.pdf) In Hea Ko's Coupang ASBP case comments (2024)
 
 [press20220511.pdf](./press20220511.pdf) SPO on Law Talk
