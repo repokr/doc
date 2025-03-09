@@ -1,5 +1,7 @@
 [Online_Platform_Fairness_Act.pdf](./Online_Platform_Fairness_Act.pdf) Online platform fairness act (Sep 2020)
 
+[2016Du36345.pdf](./2016Du36345.pdf) Doctors Medical Association - Noerr–Pennington (Sep 9, 2021)
+
 [2007Du26117.pdf](./2007Du26117.pdf) Freighter strikes case (Jul 9, 2009)
 
 [2022Nu43742.pdf](./2022Nu43742.pdf) Evergreen (Feb 1, 2024)
