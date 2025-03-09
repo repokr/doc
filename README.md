@@ -1,5 +1,7 @@
 [Online_Platform_Fairness_Act.pdf](./Online_Platform_Fairness_Act.pdf) Online platform fairness act (Sep 2020)
 
+[2007Du26117.pdf](./2007Du26117.pdf) Freighter strikes case (Jul 9, 2009)
+
 [2022Nu43742.pdf](./2022Nu43742.pdf) Evergreen (Feb 1, 2024)
 
 [2013Du25924.pdf](./2013Du25924.pdf) Ramyun cartel (Dec 24, 2015)
