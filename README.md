@@ -68,6 +68,8 @@
 
 [press20241121.pdf](./press20241121.pdf) KFTC's decision to reexamine, in the LTV cartel case (Nov 2024)
 
+[KFTC2022-107.pdf](./KFTC2022-107.pdf) KFTC KAL/Asiana (May 2022)
+
 [press20230214.pdf](./press20230214.pdf) KFTC's Kakao Mobility I (Feb 14, 2023)
 
 [press20241002.pdf](./press20241002.pdf) KFTC's Kakao Mobility II (Oct 2, 2024)
