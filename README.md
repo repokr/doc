@@ -30,6 +30,8 @@
 
 [Ko_2024.pdf](./Ko_2024.pdf) In Hea Ko's Coupang ASBP case comments (2024)
 
+[press20230926.pdf](./press20230926.pdf) DoJ on cancellation decision in Law Talk (Sep 2023)
+
 [press20220511.pdf](./press20220511.pdf) SPO on Law Talk
 
 [press20220519.pdf](./press20220519.pdf) SPO on Daewoong
