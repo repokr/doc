@@ -8,6 +8,8 @@
 
 [2013Du25924.pdf](./2013Du25924.pdf) Ramyun cartel (Dec 24, 2015)
 
+[2014Du15740.pdf](./2014Du15740.pdf) Deception's broad impact (Sep 26, 2019)
+
 [2001Hun-Ka25.pdf](./2001Hun-Ka25.pdf) Double jeopardy
 
 [2021Hun-Ma619.pdf](./2021Hun-Ma619.pdf) KBA (Law Talk)
