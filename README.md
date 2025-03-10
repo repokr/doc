@@ -8,7 +8,7 @@
 
 [2013Du25924.pdf](./2013Du25924.pdf) Ramyun cartel (Dec 24, 2015)
 
-[2014Du15740.pdf](./2014Du15740.pdf) Deception's broad impact (Sep 26, 2019)
+[2014Du15740.pdf](./2014Du15740.pdf) Deception's 'broad Impact' requirement (Sep 26, 2019)
 
 [2020Du36892.pdf](./2020Du36892.pdf) Siemens (Nov 28, 2024)
 
@@ -21,6 +21,8 @@
 [2022Nu43732.pdf](./2022Nu43732.pdf) Evergreen
 
 [2022Nu61146.pdf](./2022Nu61146.pdf) Duck meat processing cartel
+
+[2018Du37700_EN.pdf](./2018Du37700_EN.pdf) Margin squeeze KT/LGU (Jun 30, 2021)
 
 [GenAI2024.pdf](./GenAI2024.pdf) KFTC GenAI and Competition Report (Dec 2024)
 
