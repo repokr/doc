@@ -30,6 +30,8 @@
 
 [KFTC2023-063.pdf](./KFTC2023-063.pdf) KFTC's decision against KBA (re. Law Talk) (Apr 13, 2023)
 
+[KFTC2024-284.pdf](./KFTC2024-284.pdf) KFTC Coupang self-preferencing, deceptive (Aug 5, 2024)
+
 [Ko_2024.pdf](./Ko_2024.pdf) In Hea Ko's Coupang ASBP case comments (2024)
 
 [press20230926.pdf](./press20230926.pdf) DoJ on cancellation decision in Law Talk (Sep 2023)
