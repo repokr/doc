@@ -28,6 +28,8 @@
 
 [Jeong_2022.pdf](./Jeong_2022.pdf) Jae Hun Jeong's Siemens case comments (2022)
 
+[KFTC2023-145.pdf](./KFTC2023-145.pdf) KFTC Kakao Entertainment ASBP (Sep 2023)
+
 [KFTC2023-153.pdf](./KFTC2023-153.pdf) KFTC Broadcom ASBP (against Samsung) (2023)
 
 [KFTC2022-216.pdf](./KFTC2022-216.pdf) KFTC Duck Meat Cartel (Aug 2022)
