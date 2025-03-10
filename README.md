@@ -36,6 +36,8 @@
 
 [KFTC2021-063.pdf](./KFTC2021-063.pdf) KFTC Daewoong Pharma (Mar 11, 2021)
 
+[KFTC2018-094.pdf](./KFTC2018-094.pdf) KFTC Siemens (aftermarket) (Mar 13, 20218)
+
 [Ko_2024.pdf](./Ko_2024.pdf) In Hea Ko's Coupang ASBP case comments (2024)
 
 [press20230926.pdf](./press20230926.pdf) DoJ on cancellation decision in Law Talk (Sep 2023)
