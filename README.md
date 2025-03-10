@@ -54,3 +54,5 @@
 
 [press20230214.pdf](./press20230214.pdf) KFTC's Kakao Mobility I (Feb 14, 2023)
 
+[press20241002.pdf](./press20241002.pdf) KFTC's Kakao Mobility II (Oct 2, 2024)
+
