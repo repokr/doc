@@ -28,6 +28,8 @@
 
 [KFTC2022-090.pdf](./KFTC2022-090.pdf) KFTC Evergreen (Apr 2022)
 
+[KFTC2023-063.pdf](./KFTC2023-063.pdf) KFTC's decision against KBA (re. Law Talk) (Apr 13, 2023)
+
 [Ko_2024.pdf](./Ko_2024.pdf) In Hea Ko's Coupang ASBP case comments (2024)
 
 [press20230926.pdf](./press20230926.pdf) DoJ on cancellation decision in Law Talk (Sep 2023)
@@ -50,4 +52,5 @@
 
 [press20241121.pdf](./press20241121.pdf) KFTC's decision to reexamine, in the LTV cartel case (Nov 2024)
 
-[KFTC2023-063.pdf](./KFTC2023-063.pdf) KFTC's decision against KBA (re. Law Talk) (Apr 13, 2023)
+[press20230214.pdf](./press20230214.pdf) KFTC's Kakao Mobility I (Feb 14, 2023)
+
