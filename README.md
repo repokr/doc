@@ -44,7 +44,7 @@
 
 [KFTC2024-094.pdf](./KFTC2024-094.pdf) KFTC Megastudy block decision (Mar 20, 2024)
 
-[KFTC2024-211.pdf](./KFTC2024-211.pdf) KFTC Kakao Entertainment Merger control self-preferencing remedy (May 30, 2024)
+[KFTC2024-211.pdf](./KFTC2024-211.pdf) KFTC Kakao-SM Entertainment Merger control self-preferencing remedy (May 30, 2024)
 
 [Ko_2024.pdf](./Ko_2024.pdf) In Hea Ko's Coupang ASBP case comments (2024)
 
