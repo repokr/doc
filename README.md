@@ -42,6 +42,8 @@
 
 [KFTC2018-094.pdf](./KFTC2018-094.pdf) KFTC Siemens (aftermarket) (Mar 13, 20218)
 
+[KFTC2024-094.pdf](./KFTC2024-094.pdf) KFTC Megastudy block decision (Mar 20, 2024)
+
 [Ko_2024.pdf](./Ko_2024.pdf) In Hea Ko's Coupang ASBP case comments (2024)
 
 [press20230926.pdf](./press20230926.pdf) DoJ on cancellation decision in Law Talk (Sep 2023)
