@@ -49,3 +49,5 @@
 [press20241018.pdf](/press20241018.pdf) KFTC's Large Retail Act proposal, for platform regulations (Oct 2024)
 
 [press20241121.pdf](./press20241121.pdf) KFTC's decision to reexamine, in the LTV cartel case (Nov 2024)
+
+[KFTC2023-063.pdf](./KFTC2023-063.pdf) KFTC's decision against KBA (re. Law Talk) (Apr 13, 2023)
