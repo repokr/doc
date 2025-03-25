@@ -80,5 +80,5 @@
 
 [press20241002.pdf](./press20241002.pdf) KFTC's Kakao Mobility II (Oct 2, 2024)
 
-[press20250321.pdf](./press20250321.pdf) KFTC's Synopsys-Ansys clearance decision (Mar 21, 2025)
+[press20250320.pdf](./press20250320.pdf) KFTC's Synopsys-Ansys clearance decision (Mar 20, 2025)
 
