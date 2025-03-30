@@ -12,6 +12,8 @@
 
 [2020Du36892.pdf](./2020Du36892.pdf) Siemens (Nov 28, 2024)
 
+[2020Du36892_EN.pdf](./2020Du36892_EN.pdf) Siemens English (Nov 28, 2024)
+
 [2001Hun-Ka25.pdf](./2001Hun-Ka25.pdf) Double jeopardy
 
 [2021Hun-Ma619.pdf](./2021Hun-Ma619.pdf) KBA (Law Talk)
