@@ -86,3 +86,4 @@
 
 [press20250320.pdf](./press20250320.pdf) KFTC's Synopsys-Ansys clearance decision (Mar 20, 2025)
 
+[press20250523_datastudy.pdf](./press20250523_datastudy.pdf) KFTC's market study on data industry initiation (May 23, 2025)
