@@ -50,6 +50,8 @@
 
 [KFTC2024-211.pdf](./KFTC2024-211.pdf) KFTC Kakao-SM Entertainment Merger control self-preferencing remedy (May 30, 2024)
 
+[KFTC2022-107.pdf](./KFTC2022-107.pdf) KFTC KAL/Asiana (May 2022)
+
 [Ko_2024.pdf](./Ko_2024.pdf) In Hea Ko's Coupang ASBP case comments (2024)
 
 [press20231219_SMEs_referral_KakaoMobility.pdf](./press20231219_SMEs_referral_KakaoMobility.pdf) Ministry of SMEs' criminal referral_Kakao Mobility (Dec 2023)
@@ -78,8 +80,6 @@
 
 [press20241205.pdf](./press20241205.pdf) KFTC's sustainability guidelines (Dec 5, 2024)
 
-[KFTC2022-107.pdf](./KFTC2022-107.pdf) KFTC KAL/Asiana (May 2022)
-
 [press20230214.pdf](./press20230214.pdf) KFTC's Kakao Mobility I (Feb 14, 2023)
 
 [press20241002.pdf](./press20241002.pdf) KFTC's Kakao Mobility II (Oct 2, 2024)
@@ -87,3 +87,5 @@
 [press20250320.pdf](./press20250320.pdf) KFTC's Synopsys-Ansys clearance decision (Mar 20, 2025)
 
 [press20250523_datastudy.pdf](./press20250523_datastudy.pdf) KFTC's market study on data industry initiation (May 23, 2025)
+
+[press20230725_platformcollusion.pdf](./press20230725_platformcollusion.pdf) KFTC' decision on platforms' collusion (Jul 25, 2023)
