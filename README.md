@@ -89,3 +89,11 @@
 [press20250523_datastudy.pdf](./press20250523_datastudy.pdf) KFTC's market study on data industry initiation (May 23, 2025)
 
 [press20230725_platformcollusion.pdf](./press20230725_platformcollusion.pdf) KFTC' decision on platforms' collusion (Jul 25, 2023)
+
+[KFTC_Casebook_2024_ToC.pdf](./KFTC_Casebook_2024_ToC.pdf) 
+
+[KFTC_Casebook_2024_Vol1.pdf](./KFTC_Casebook_2024_Vol1.pdf)
+
+[KFTC_Casebook_2024_Vol2.pdf](./KFTC_Casebook_2024_Vol2.pdf)
+
+[KFTC_Casebook_2024_Vol3.pdf](./KFTC_Casebook_2024_Vol3.pdf)
