@@ -54,6 +54,8 @@
 
 [Ko_2024.pdf](./Ko_2024.pdf) In Hea Ko's Coupang ASBP case comments (2024)
 
+[press20200603.pdf](./press20200603.pdf) Yogiyo (2020)
+
 [press20231219_SMEs_referral_KakaoMobility.pdf](./press20231219_SMEs_referral_KakaoMobility.pdf) Ministry of SMEs' criminal referral_Kakao Mobility (Dec 2023)
 
 [press20230926.pdf](./press20230926.pdf) DoJ on cancellation decision in Law Talk (Sep 2023)
