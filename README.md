@@ -101,3 +101,5 @@
 [KFTC_Casebook_2024_Vol2.pdf](./KFTC_Casebook_2024_Vol2.pdf)
 
 [KFTC_Casebook_2024_Vol3.pdf](./KFTC_Casebook_2024_Vol3.pdf)
+
+[KFTC_Sustainability_Guidelines_2024.pdf](./KFTC_Sustainability_Guidelines_2024.pdf)
