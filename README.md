@@ -96,6 +96,8 @@
 
 [press20220126_E-vehicle_M&As.pdf](./press20220126_E-vehicle_M&As.pdf) Electric Vehicle M&A Trends (Jan 26, 2022)
 
+[Press20230210_emission.pdf](./Press20230210_emission.pdf) KFTC German Car Emission Gas Cartel (Feb 10, 2023)
+
 [KFTC_Casebook_2024_ToC.pdf](./KFTC_Casebook_2024_ToC.pdf) 
 
 [KFTC_Casebook_2024_Vol1.pdf](./KFTC_Casebook_2024_Vol1.pdf)
