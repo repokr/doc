@@ -24,6 +24,8 @@
 
 [2022Nu61146.pdf](./2022Nu61146.pdf) Duck meat processing cartel
 
+[2021Nu74824_Summary_by_KFTC.pdf](./2021Nu74824_Summary_by_KFTC.pdf) The Seoul High Court's Samgye, small broiler chicken, cartel case decision, on May 28, 2025 (KFTC's summary)
+
 [2018Du37700_EN.pdf](./2018Du37700_EN.pdf) Margin squeeze KT/LGU (Jun 30, 2021)
 
 [GenAI2024.pdf](./GenAI2024.pdf) KFTC GenAI and Competition Report (Dec 2024)
