@@ -100,6 +100,8 @@
 
 [Press20230210_emission.pdf](./Press20230210_emission.pdf) KFTC German Car Emission Gas Cartel (Feb 10, 2023)
 
+[press20250722.pdf] On Kakao's free shipping policy_Alleged to violate the Large Retailer Act_Closed with commitments_(July 22, 2025)
+
 
 
 
