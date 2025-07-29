@@ -1,6 +1,11 @@
 [Online_Platform_Fairness_Act.pdf](./Online_Platform_Fairness_Act.pdf) Online platform fairness act (Jan 28, 2021)
+
+[press20200525.pdf](./press20200525.pdf) Launch of platform guideline preparation (May 25, 2025)
+
 [press20200625.pdf](./press20200625.pdf) Online platform fairness act initiative (Jun 25, 2020)
+
 [press20200929.pdf](./press20200929.pdf) KFTC's first bill announcement (Sep 29, 2020)
+
 
 [2016Du36345.pdf](./2016Du36345.pdf) Doctors Medical Association - Noerr–Pennington (Sep 9, 2021)
 
@@ -86,7 +91,9 @@
 
 [press20241101_sustainability_hearing.pdf](./press20241101_sustainability_hearing.pdf) KFTC's hearings for the sustainability guidelines draft (Nov 1, 2024)
 
-[press20241205.pdf](./press20241205.pdf) KFTC's sustainability guidelines (Dec 5, 2024)
+[press20241205.pdf](./press20241205.pdf) KFTC's annoucement of the release of its sustainability guidelines (Dec 5, 2024)
+
+[KFTC_Sustainability_Guidelines_2024.pdf](./KFTC_Sustainability_Guidelines_2024.pdf)
 
 [press20230214.pdf](./press20230214.pdf) KFTC's Kakao Mobility I (Feb 14, 2023)
 
@@ -112,4 +119,4 @@
 
 [KFTC_Casebook_2024_Vol3.pdf](./KFTC_Casebook_2024_Vol3.pdf)
 
-[KFTC_Sustainability_Guidelines_2024.pdf](./KFTC_Sustainability_Guidelines_2024.pdf)
+
