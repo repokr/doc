@@ -2,6 +2,8 @@
 
 [press20200625.pdf](./press20200625.pdf) Online platform fairness act initiative (Jun 25, 2020)
 
+[./press20200820.pdf](./press20200820.pdf) Stakeholder meeting for drafting platform regulation (Aug 20, 2020)
+
 [press20200928.pdf](./press20200928.pdf) KFTC's first bill announcement (Sep 28, 2020)
 
 [press20200525.pdf](./press20200525.pdf) Launch of platform guideline preparation (May 25, 2025)
