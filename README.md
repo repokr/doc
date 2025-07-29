@@ -1,10 +1,12 @@
 [Online_Platform_Fairness_Act.pdf](./Online_Platform_Fairness_Act.pdf) Online platform fairness act (Jan 28, 2021)
 
-[press20200525.pdf](./press20200525.pdf) Launch of platform guideline preparation (May 25, 2025)
-
 [press20200625.pdf](./press20200625.pdf) Online platform fairness act initiative (Jun 25, 2020)
 
 [press20200928.pdf](./press20200928.pdf) KFTC's first bill announcement (Sep 28, 2020)
+
+[press20200525.pdf](./press20200525.pdf) Launch of platform guideline preparation (May 25, 2025)
+
+[press20220106_draft.pdf](./press20220106_draft.pdf) Guidelines Draft announcement (Jan 6, 2022)
 
 [2016Du36345.pdf](./2016Du36345.pdf) Doctors Medical Association - Noerr–Pennington (Sep 9, 2021)
 
