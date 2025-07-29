@@ -4,8 +4,7 @@
 
 [press20200625.pdf](./press20200625.pdf) Online platform fairness act initiative (Jun 25, 2020)
 
-[press20200929.pdf](./press20200929.pdf) KFTC's first bill announcement (Sep 29, 2020)
-
+[press20200928.pdf](./press20200928.pdf) KFTC's first bill announcement (Sep 28, 2020)
 
 [2016Du36345.pdf](./2016Du36345.pdf) Doctors Medical Association - Noerr–Pennington (Sep 9, 2021)
 
