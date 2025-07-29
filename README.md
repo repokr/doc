@@ -78,6 +78,8 @@
 
 [press20250509_SPO.pdf](./press20250509_SPO.pdf) SPO on rigging bids on US military contracts (May 2025)
 
+[press20240801.pdf](./press20240801.pdf) KFTC's initiation of the GenAI Industry Market Study (Aug 1, 2024)
+
 [press20241218.pdf](./press20241218.pdf) KFTC on GenAI Report (Dec 2024)
 
 [press20241112.pdf](/press20241112.pdf) KFTC's enforcement record, 2022-2024 (Nov 2024)
