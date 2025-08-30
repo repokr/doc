@@ -120,6 +120,14 @@
 
 [press20250812_OTAs_ASBP.pdf](./press20250812_OTAs_ASBP.pdf) An ASBP case against exploitative practices (unilaterally expiring discount coupons, without refunds, despite the fact that operators bore the coupon cost), two online accommodation booking platforms (Aug 12, 2025)
 
+[press_20240125_DarkPattern_Law.pdf](./press_20240125_DarkPattern_Law.pdf)
+
+[press_20250210_DarkPattern_Decree_Rules.pdf](./press_20250210_DarkPattern_Decree_Rules.pdf)
+
+[press_20250213_DarkPattern_Q&A.pdf](./press_20250213_DarkPattern_Q&A.pdf)
+
+[press_20250829_DarkPatter_Guideliens(proposal).pdf](./press_20250829_DarkPatter_Guideliens(proposal).pdf)
+
 [KFTC_Casebook_2024_ToC.pdf](./KFTC_Casebook_2024_ToC.pdf) 
 
 [KFTC_Casebook_2024_Vol1.pdf](./KFTC_Casebook_2024_Vol1.pdf)
