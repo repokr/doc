@@ -4,7 +4,7 @@
 
 [press20200625.pdf](./press20200625.pdf) Online platform fairness act initiative (Jun 25, 2020)
 
-[/press20200820.pdf](./press20200820.pdf) Stakeholder meeting for drafting platform regulation (Aug 20, 2020)
+[press20200820.pdf](./press20200820.pdf) Stakeholder meeting for drafting platform regulation (Aug 20, 2020)
 
 [press20200928.pdf](./press20200928.pdf) KFTC's first bill announcement (Sep 28, 2020)
 
@@ -127,6 +127,8 @@
 [press_20250213_DarkPattern_Q&A.pdf](./press_20250213_DarkPattern_Q&A.pdf)
 
 [press_20250829_DarkPatter_Guideliens(proposal).pdf](./press_20250829_DarkPatter_Guideliens(proposal).pdf)
+
+[press20250904_Broadcom_exclusivity.pdf](./press20250904_Broadcom_exclusivity.pdf)
 
 [KFTC_Casebook_2024_ToC.pdf](./KFTC_Casebook_2024_ToC.pdf) 
 
