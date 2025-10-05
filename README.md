@@ -108,6 +108,8 @@
 
 [press20250320.pdf](./press20250320.pdf) KFTC's Synopsys-Ansys clearance decision (Mar 20, 2025)
 
+[press20251001.pdf](./press20251001.pdf) KFTC's internal task force (for staff increase and make the organization efficient) (Oct 1, 2025)
+
 [press20250523_datastudy.pdf](./press20250523_datastudy.pdf) KFTC's market study on data industry initiation (May 23, 2025)
 
 [press20230725_platformcollusion.pdf](./press20230725_platformcollusion.pdf) KFTC's decision on platforms' collusion (Jul 25, 2023)
