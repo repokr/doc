@@ -1,6 +1,8 @@
 [Chair_Present_20221201.pdf](./Chair_Present_20221201.pdf) Ki-Jeong Han, Chair of Korea Fair Trade Commission, 'New Government’s Fair Trade Policy Direction' (ECCK Lecture, Dec 1, 2022)
 
-[Online_Platform_Fairness_Act.pdf](./Online_Platform_Fairness_Act.pdf) Online platform fairness act (Jan 28, 2021)
+[Online_Platform_Fairness_Act.pdf](./Online_Platform_Fairness_Act.pdf) Online Platform Fairness Act (Jan 28, 2021)
+
+[press20210125.pdf](./press20210125.pdf) Press release on the pass of the revised proposal for the OPFA (Jan 26, 2021)
 
 [press20200625.pdf](./press20200625.pdf) Online platform fairness act initiative (Jun 25, 2020)
 
