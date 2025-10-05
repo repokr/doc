@@ -10,9 +10,11 @@
 
 [press20200928.pdf](./press20200928.pdf) KFTC's first bill announcement (Sep 28, 2020)
 
-[press20200525.pdf](./press20200525.pdf) Launch of platform guideline preparation (May 25, 2025)
+[press20200525.pdf](./press20200525.pdf) Launch of platform guideline preparation (May 25, 2020)
 
 [press20220106_draft.pdf](./press20220106_draft.pdf) Guidelines Draft announcement (Jan 6, 2022)
+
+[press20230112.pdf](./press20230112.pdf) Platform Guidelines annoucement
 
 [2016Du36345.pdf](./2016Du36345.pdf) Doctors Medical Association - Noerr–Pennington (Sep 9, 2021)
 
