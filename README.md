@@ -16,6 +16,8 @@
 
 [press20230112.pdf](./press20230112.pdf) Platform Guidelines annoucement
 
+[press20251016_platform_conference.pdf](./press20251016_platform_conference.pdf) KFTC's Chair once again argued the need for platform regulation at a conference (Oct 16, 2025)
+
 [2016Du36345.pdf](./2016Du36345.pdf) Doctors Medical Association - Noerr–Pennington (Sep 9, 2021)
 
 [2007Du26117.pdf](./2007Du26117.pdf) Freighter strikes case (Jul 9, 2009)
