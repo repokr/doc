@@ -140,6 +140,8 @@
 
 [NAVER_Shopping_Press_Conference_Transcript (Oct 6, 2020).pdf](./NAVER_Shopping_Press_Conference_Transcript (Oct 6, 2020).pdf) On Naver Shopping
 
+[Jeong_2023_(on_selfpreferencing).pdf](./Jeong_2023_(on_selfpreferencing).pdf) 
+
 
 
 
