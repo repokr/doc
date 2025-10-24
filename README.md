@@ -2,7 +2,7 @@
 
 [Online_Platform_Fairness_Act.pdf](./Online_Platform_Fairness_Act.pdf) Online Platform Fairness Act (Jan 28, 2021)
 
-[press20210125.pdf](./press20210125.pdf) Press release on the pass of the revised proposal for the OPFA (Jan 26, 2021)
+[press20210125.pdf](./press20210125.pdf) Press release on the passing of the revised proposal for the OPFA (Jan 26, 2021)
 
 [press20200625.pdf](./press20200625.pdf) Online platform fairness act initiative (Jun 25, 2020)
 
@@ -137,6 +137,8 @@
 [press_20250829_DarkPatter_Guideliens(proposal).pdf](./press_20250829_DarkPatter_Guideliens(proposal).pdf)
 
 [press20250904_Broadcom_exclusivity.pdf](./press20250904_Broadcom_exclusivity.pdf)
+
+[NAVER_Shopping_Press_Conference_Transcript (Oct 6, 2020).pdf](./NAVER_Shopping_Press_Conference_Transcript (Oct 6, 2020).pdf) On Naver Shopping
 
 [KFTC_Casebook_2024_ToC.pdf](./KFTC_Casebook_2024_ToC.pdf) 
 
