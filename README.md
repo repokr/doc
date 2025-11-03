@@ -142,6 +142,8 @@
 
 [NAVER_Shopping_Press_Conference_Transcript (Oct 6, 2020).pdf](./NAVER_Shopping_Press_Conference_Transcript (Oct 6, 2020).pdf) On Naver Shopping
 
+[press20201006.pdf](./press20201006.pdf) NAVER Shopping press release
+
 [Jeong_2023_(on_selfpreferencing).pdf](./Jeong_2023_(on_selfpreferencing).pdf) 
 
 [KFTC_Casebook_2024_ToC.pdf](./KFTC_Casebook_2024_ToC.pdf) 
