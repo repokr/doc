@@ -140,6 +140,8 @@
 
 [press20251028.pdf](./press20251028.pdf) EO, Shinbo, Woo Kyung
 
+[press20260122_LTV.pdf](./press20260122_LTV.pdf) LTV information exchange
+
 [NAVER_Shopping_Press_Conference_Transcript (Oct 6, 2020).pdf](./NAVER_Shopping_Press_Conference_Transcript (Oct 6, 2020).pdf) On Naver Shopping
 
 [press20201006.pdf](./press20201006.pdf) NAVER Shopping press release
