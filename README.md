@@ -1,3 +1,5 @@
+[Kwon_MDDIA_2018.pdf](./Kwon_MDDIA_2018.pdf) Namhoon Kwon, 'Mobile Handset Subsidies and Retail Regulations - Critics on the Mobile Device Distribution Improvement Act -' (Nov 2018) 11(2) Journal of Law & Economic Regulation 185
+
 [Chair_Present_20221201.pdf](./Chair_Present_20221201.pdf) Ki-Jeong Han, Chair of Korea Fair Trade Commission, 'New Government’s Fair Trade Policy Direction' (ECCK Lecture, Dec 1, 2022)
 
 [Online_Platform_Fairness_Act.pdf](./Online_Platform_Fairness_Act.pdf) Online Platform Fairness Act (Jan 28, 2021)
