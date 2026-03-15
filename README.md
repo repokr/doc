@@ -50,6 +50,8 @@
 
 [2018Du37700_EN.pdf](./2018Du37700_EN.pdf) Margin squeeze KT/LGU (Jun 30, 2021)
 
+[Data_Report.pdf](./Data_Report.pdf) KFTC Data and Competition Report (Dec 2025)
+
 [GenAI2024.pdf](./GenAI2024.pdf) KFTC GenAI and Competition Report (Dec 2024)
 
 [Jeong_2022.pdf](./Jeong_2022.pdf) Jae Hun Jeong's Siemens case comments (2022)
